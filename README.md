@@ -1,4 +1,4 @@
-# KoshrCap Frontend
+# Kosher Capital Frontend
 
 A modern web application built with React, Vite, and Web3 technologies. This project provides a seamless interface for interacting with blockchain technologies while maintaining a responsive and user-friendly design.
 
@@ -95,7 +95,3 @@ yarn preview
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-Project Link: [repository-url]
